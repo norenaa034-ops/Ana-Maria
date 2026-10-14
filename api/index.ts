@@ -1,6 +1,6 @@
 import express from 'express';
 import { GoogleGenAI, Type } from '@google/genai';
-import { INITIAL_PRODUCTS } from '../src/data/products.ts';
+import { INITIAL_PRODUCTS } from '../src/data/products';
 
 
 const ai = new GoogleGenAI({
