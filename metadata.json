@@ -1,0 +1,6 @@
+{
+  "name": "NEXUS Tech Enterprise - Comercio Electrónico B2B",
+  "description": "Plataforma empresarial de comercio electrónico para venta y cotización de equipos y suministros tecnológicos, infraestructura de TI y hardware corporativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
